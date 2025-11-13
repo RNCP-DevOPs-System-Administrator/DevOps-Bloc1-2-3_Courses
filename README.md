@@ -16,7 +16,7 @@ Ce module aborde les principes et outils d’automatisation nécessaires pour d�
 * [03.Créer automatiquement des serveurs grâce aux scripts](Automatisation_du_deploiement_Infrastructure_dans_le_Cloud/03.Creer_automatiquement_des_serveurs_grace_aux_scripts.pdf) – Scripting (Bash, Python, etc.)
 * [04.Déployer automatiquement une infrastructure](Automatisation_du_deploiement_Infrastructure_dans_le_Cloud/04.Deployer_automatiquement_une_infrastructure.pdf) – Infrastructure as Code (Terraform, Ansible…)
 * [05.Sécuriser votre infrastructure](Automatisation_du_deploiement_Infrastructure_dans_le_Cloud/05.Securiser_votre_infrastructure.pdf) – Bonnes pratiques de sécurité Cloud
-* [06.Superviser l'infrastructure](Automatisation_du_deploiement_Infrastructure_dans_le_Cloud/06.Superviser_infrastructure.pdf) – Mise en place d’outils de supervision
+* [06.Superviser l'infrastructure](Automatisation_du_deploiement_Infrastructure_dans_le_Cloud/06.Superviser_Infrastructure.pdf) – Mise en place d’outils de supervision
 * [07.Mettre votre infrastructure en production dans le Cloud](Automatisation_du_deploiement_Infrastructure_dans_le_Cloud/07.Mettre_votre_infrastructure_en_production_dans_le_Cloud.pdf) – Déploiement complet sur un Cloud provider
 
 ---
